@@ -1,6 +1,4 @@
 const cards = document.getElementById('cards');
-const Us = document.getElementById('nosotros-text');
-const empImg = document.getElementById('empresa-img')
 const cargarSect = (entradas, observador) => {
 
 
